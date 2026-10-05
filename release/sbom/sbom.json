@@ -1,0 +1,6579 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "absl-py",
+      "purl": "pkg:pypi/absl-py@2.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache",
+      "name": "accelerate",
+      "purl": "pkg:pypi/accelerate@1.10.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.10.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "aeon",
+      "purl": "pkg:pypi/aeon@0.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "aiodns",
+      "purl": "pkg:pypi/aiodns@3.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "aiofiles",
+      "purl": "pkg:pypi/aiofiles@25.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "25.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "PSF-2.0",
+      "name": "aiohappyeyeballs",
+      "purl": "pkg:pypi/aiohappyeyeballs@2.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0 AND MIT",
+      "name": "aiohttp",
+      "purl": "pkg:pypi/aiohttp@3.13.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.13.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "aiosignal",
+      "purl": "pkg:pypi/aiosignal@1.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "aiosqlite",
+      "purl": "pkg:pypi/aiosqlite@0.22.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.22.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "aistudio-sdk",
+      "purl": "pkg:pypi/aistudio-sdk@0.3.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "alembic",
+      "purl": "pkg:pypi/alembic@1.16.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.16.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "alpaca-py",
+      "purl": "pkg:pypi/alpaca-py@0.43.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.43.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT license",
+      "name": "alphashape",
+      "purl": "pkg:pypi/alphashape@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "alt-profanity-check",
+      "purl": "pkg:pypi/alt-profanity-check@1.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2015-2023, Vega-Altair Dev",
+      "name": "altair",
+      "purl": "pkg:pypi/altair@5.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "altgraph",
+      "purl": "pkg:pypi/altgraph@0.17.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.17.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "amqp",
+      "purl": "pkg:pypi/amqp@5.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "annotated-doc",
+      "purl": "pkg:pypi/annotated-doc@0.0.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "annotated-types",
+      "purl": "pkg:pypi/annotated-types@0.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "antlr4-python3-runtime",
+      "purl": "pkg:pypi/antlr4-python3-runtime@4.9.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.9.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "anyascii",
+      "purl": "pkg:pypi/anyascii@0.3.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "anyio",
+      "purl": "pkg:pypi/anyio@4.12.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.12.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "appdirs",
+      "purl": "pkg:pypi/appdirs@1.4.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Public Domain",
+      "name": "appscript",
+      "purl": "pkg:pypi/appscript@1.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "asteroid-filterbanks",
+      "purl": "pkg:pypi/asteroid-filterbanks@0.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "astunparse",
+      "purl": "pkg:pypi/astunparse@1.6.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.6.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2",
+      "name": "async-timeout",
+      "purl": "pkg:pypi/async-timeout@4.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "attrs",
+      "purl": "pkg:pypi/attrs@25.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "25.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "audiocraft",
+      "purl": "pkg:pypi/audiocraft@1.4.0a2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.0a2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "audioread",
+      "purl": "pkg:pypi/audioread@3.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "av",
+      "purl": "pkg:pypi/av@15.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "15.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "babel",
+      "purl": "pkg:pypi/babel@2.17.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.17.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "PSF-2.0",
+      "name": "backports.asyncio.runner",
+      "purl": "pkg:pypi/backports.asyncio.runner@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "bangla",
+      "purl": "pkg:pypi/bangla@0.0.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "batch-face",
+      "purl": "pkg:pypi/batch-face@1.5.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "bce-python-sdk",
+      "purl": "pkg:pypi/bce-python-sdk@0.9.71",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.71"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "bcrypt",
+      "purl": "pkg:pypi/bcrypt@5.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "beautifulsoup4",
+      "purl": "pkg:pypi/beautifulsoup4@4.14.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.14.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "better-profanity",
+      "purl": "pkg:pypi/better-profanity@0.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MPL 2.0",
+      "name": "bidict",
+      "purl": "pkg:pypi/bidict@0.23.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "billiard",
+      "purl": "pkg:pypi/billiard@4.2.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.2.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "blinker",
+      "purl": "pkg:pypi/blinker@1.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "blis",
+      "purl": "pkg:pypi/blis@1.3.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "bnnumerizer",
+      "purl": "pkg:pypi/bnnumerizer@0.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "bnunicodenormalizer",
+      "purl": "pkg:pypi/bnunicodenormalizer@0.1.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "bottle",
+      "purl": "pkg:pypi/bottle@0.13.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "brotli",
+      "purl": "pkg:pypi/brotli@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "build",
+      "purl": "pkg:pypi/build@1.4.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "cachetools",
+      "purl": "pkg:pypi/cachetools@6.2.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.2.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "camelot-py",
+      "purl": "pkg:pypi/camelot-py@1.0.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "catalogue",
+      "purl": "pkg:pypi/catalogue@2.0.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "ccxt",
+      "purl": "pkg:pypi/ccxt@4.5.64",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.5.64"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "celery",
+      "purl": "pkg:pypi/celery@5.6.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.6.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MPL-2.0",
+      "name": "certifi",
+      "purl": "pkg:pypi/certifi@2025.11.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.11.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "cffi",
+      "purl": "pkg:pypi/cffi@2.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL",
+      "name": "chardet",
+      "purl": "pkg:pypi/chardet@5.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "charset-normalizer",
+      "purl": "pkg:pypi/charset-normalizer@3.4.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.4.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "chromadb",
+      "purl": "pkg:pypi/chromadb@1.5.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "click",
+      "purl": "pkg:pypi/click@8.1.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "8.1.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "click-didyoumean",
+      "purl": "pkg:pypi/click-didyoumean@0.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "click-log",
+      "purl": "pkg:pypi/click-log@0.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "New BSD",
+      "name": "click-plugins",
+      "purl": "pkg:pypi/click-plugins@1.1.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "click-repl",
+      "purl": "pkg:pypi/click-repl@0.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "cloudpathlib",
+      "purl": "pkg:pypi/cloudpathlib@0.23.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "cloudpickle",
+      "purl": "pkg:pypi/cloudpickle@3.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "coincurve",
+      "purl": "pkg:pypi/coincurve@21.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "21.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "coloredlogs",
+      "purl": "pkg:pypi/coloredlogs@15.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "15.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "colorlog",
+      "purl": "pkg:pypi/colorlog@6.10.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.10.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "confection",
+      "purl": "pkg:pypi/confection@0.1.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License\n        \n        Co",
+      "name": "contourpy",
+      "purl": "pkg:pypi/contourpy@1.2.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "coqpit",
+      "purl": "pkg:pypi/coqpit@0.0.17",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.17"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "courlan",
+      "purl": "pkg:pypi/courlan@1.3.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "coverage",
+      "purl": "pkg:pypi/coverage@7.10.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.10.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Crawl4AI",
+      "purl": "pkg:pypi/Crawl4AI@0.7.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL-2.1-or-later",
+      "name": "crc32c",
+      "purl": "pkg:pypi/crc32c@2.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "cryptography",
+      "purl": "pkg:pypi/cryptography@46.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "46.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "ctranslate2",
+      "purl": "pkg:pypi/ctranslate2@4.6.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.6.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "curl_cffi",
+      "purl": "pkg:pypi/curl_cffi@0.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Creative Commons Zero v1.0 Universal",
+      "name": "customtkinter",
+      "purl": "pkg:pypi/customtkinter@6.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2015, matplotlib project\n ",
+      "name": "cycler",
+      "purl": "pkg:pypi/cycler@0.12.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.12.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "cymem",
+      "purl": "pkg:pypi/cymem@2.0.13",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.13"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "Cython",
+      "purl": "pkg:pypi/Cython@3.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "darkdetect",
+      "purl": "pkg:pypi/darkdetect@0.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "dataclasses-json",
+      "purl": "pkg:pypi/dataclasses-json@0.6.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "dateparser",
+      "purl": "pkg:pypi/dateparser@1.1.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ddgs",
+      "purl": "pkg:pypi/ddgs@9.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "9.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "new BSD License",
+      "name": "decorator",
+      "purl": "pkg:pypi/decorator@4.4.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "DeepFilterLib",
+      "purl": "pkg:pypi/DeepFilterLib@0.5.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "DeepFilterNet",
+      "purl": "pkg:pypi/DeepFilterNet@0.5.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "PSFL",
+      "name": "defusedxml",
+      "purl": "pkg:pypi/defusedxml@0.7.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "demucs",
+      "purl": "pkg:pypi/demucs@4.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "Deprecated",
+      "purl": "pkg:pypi/Deprecated@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "detoxify",
+      "purl": "pkg:pypi/detoxify@0.5.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "dill",
+      "purl": "pkg:pypi/dill@0.4.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "discord",
+      "purl": "pkg:pypi/discord@2.3.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.3.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The MIT License (MIT)\n        \n        C",
+      "name": "discord.py",
+      "purl": "pkg:pypi/discord.py@2.7.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.7.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License, Version 2.0",
+      "name": "distro",
+      "purl": "pkg:pypi/distro@1.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Boost Software License",
+      "name": "dlib",
+      "purl": "pkg:pypi/dlib@20.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "20.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ISC",
+      "name": "dnspython",
+      "purl": "pkg:pypi/dnspython@2.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "docling",
+      "purl": "pkg:pypi/docling@2.69.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.69.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "docling-core",
+      "purl": "pkg:pypi/docling-core@2.60.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.60.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "docling-ibm-models",
+      "purl": "pkg:pypi/docling-ibm-models@3.10.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.10.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "docling-parse",
+      "purl": "pkg:pypi/docling-parse@4.7.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.7.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "docopt",
+      "purl": "pkg:pypi/docopt@0.6.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "docx2txt",
+      "purl": "pkg:pypi/docx2txt@0.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "dora_search",
+      "purl": "pkg:pypi/dora_search@0.1.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "duckdb",
+      "purl": "pkg:pypi/duckdb@1.4.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "duckduckgo_search",
+      "purl": "pkg:pypi/duckduckgo_search@8.1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "8.1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "durationpy",
+      "purl": "pkg:pypi/durationpy@0.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "easyocr",
+      "purl": "pkg:pypi/easyocr@1.7.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.7.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "edge-tts",
+      "purl": "pkg:pypi/edge-tts@7.2.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.2.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "einops",
+      "purl": "pkg:pypi/einops@0.8.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.8.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "en_core_web_sm",
+      "purl": "pkg:pypi/en_core_web_sm@3.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Creative Commons Attribution-NonCommerci",
+      "name": "encodec",
+      "purl": "pkg:pypi/encodec@0.1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "essentia",
+      "purl": "pkg:pypi/essentia@2.1b6.dev1389",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.1b6.dev1389"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "et_xmlfile",
+      "purl": "pkg:pypi/et_xmlfile@2.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "eval_type_backport",
+      "purl": "pkg:pypi/eval_type_backport@0.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "eventlet",
+      "purl": "pkg:pypi/eventlet@0.40.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.40.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "exceptiongroup",
+      "purl": "pkg:pypi/exceptiongroup@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT license",
+      "name": "face-recognition",
+      "purl": "pkg:pypi/face-recognition@1.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT license",
+      "name": "face_recognition_models",
+      "purl": "pkg:pypi/face_recognition_models@0.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "faiss-cpu",
+      "purl": "pkg:pypi/faiss-cpu@1.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "fake-http-header",
+      "purl": "pkg:pypi/fake-http-header@0.3.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "fake-useragent",
+      "purl": "pkg:pypi/fake-useragent@2.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "Faker",
+      "purl": "pkg:pypi/Faker@37.12.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "37.12.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "fastapi",
+      "purl": "pkg:pypi/fastapi@0.128.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.128.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "faster-whisper",
+      "purl": "pkg:pypi/faster-whisper@1.2.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "fastuuid",
+      "purl": "pkg:pypi/fastuuid@0.14.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.14.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "feedparser",
+      "purl": "pkg:pypi/feedparser@6.0.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.0.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "ffmpeg-python",
+      "purl": "pkg:pypi/ffmpeg-python@0.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "filelock",
+      "purl": "pkg:pypi/filelock@3.19.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.19.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "filetype",
+      "purl": "pkg:pypi/filetype@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "flashy",
+      "purl": "pkg:pypi/flashy@0.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Flask",
+      "purl": "pkg:pypi/Flask@3.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "Flask-Cors",
+      "purl": "pkg:pypi/Flask-Cors@4.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Flask-SocketIO",
+      "purl": "pkg:pypi/Flask-SocketIO@5.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "flatbuffers",
+      "purl": "pkg:pypi/flatbuffers@25.9.23",
+      "scope": "optional",
+      "type": "library",
+      "version": "25.9.23"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "fonttools",
+      "purl": "pkg:pypi/fonttools@4.60.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.60.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL-3.0-or-later",
+      "name": "fpdf2",
+      "purl": "pkg:pypi/fpdf2@2.8.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "freesound-python",
+      "purl": "pkg:pypi/freesound-python@0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL v3",
+      "name": "frozendict",
+      "purl": "pkg:pypi/frozendict@2.4.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.4.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "frozenlist",
+      "purl": "pkg:pypi/frozenlist@1.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "fsspec",
+      "purl": "pkg:pypi/fsspec@2025.10.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.10.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "future",
+      "purl": "pkg:pypi/future@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPLv2",
+      "name": "fuzzywuzzy",
+      "purl": "pkg:pypi/fuzzywuzzy@0.18.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.18.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "g2pkk",
+      "purl": "pkg:pypi/g2pkk@0.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause",
+      "name": "gast",
+      "purl": "pkg:pypi/gast@0.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD License",
+      "name": "gitdb",
+      "purl": "pkg:pypi/gitdb@4.0.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "GitPython",
+      "purl": "pkg:pypi/GitPython@3.1.50",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.50"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-ai-generativelanguage",
+      "purl": "pkg:pypi/google-ai-generativelanguage@0.6.15",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.15"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-api-core",
+      "purl": "pkg:pypi/google-api-core@2.30.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.30.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-api-python-client",
+      "purl": "pkg:pypi/google-api-python-client@2.190.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.190.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-auth",
+      "purl": "pkg:pypi/google-auth@2.49.0.dev0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.49.0.dev0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-auth-httplib2",
+      "purl": "pkg:pypi/google-auth-httplib2@0.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-auth-oauthlib",
+      "purl": "pkg:pypi/google-auth-oauthlib@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "google-genai",
+      "purl": "pkg:pypi/google-genai@1.47.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.47.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-generativeai",
+      "purl": "pkg:pypi/google-generativeai@0.8.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.8.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "google-pasta",
+      "purl": "pkg:pypi/google-pasta@0.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "google_search_results",
+      "purl": "pkg:pypi/google_search_results@2.4.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "googleapis-common-protos",
+      "purl": "pkg:pypi/googleapis-common-protos@1.72.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.72.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "googlesearch-python",
+      "purl": "pkg:pypi/googlesearch-python@1.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT AND Python-2.0",
+      "name": "greenlet",
+      "purl": "pkg:pypi/greenlet@3.2.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.2.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "groq",
+      "purl": "pkg:pypi/groq@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "grpcio",
+      "purl": "pkg:pypi/grpcio@1.76.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.76.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "grpcio-status",
+      "purl": "pkg:pypi/grpcio-status@1.71.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.71.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut",
+      "purl": "pkg:pypi/gruut@2.2.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut-ipa",
+      "purl": "pkg:pypi/gruut-ipa@0.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut_lang_de",
+      "purl": "pkg:pypi/gruut_lang_de@2.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut_lang_en",
+      "purl": "pkg:pypi/gruut_lang_en@2.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut_lang_es",
+      "purl": "pkg:pypi/gruut_lang_es@2.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gruut_lang_fr",
+      "purl": "pkg:pypi/gruut_lang_fr@2.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "gTTS",
+      "purl": "pkg:pypi/gTTS@2.5.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.5.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "gym",
+      "purl": "pkg:pypi/gym@0.26.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.26.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "gym-notices",
+      "purl": "pkg:pypi/gym-notices@0.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "h11",
+      "purl": "pkg:pypi/h11@0.16.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.16.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The MIT License (MIT)\n        \n        C",
+      "name": "h2",
+      "purl": "pkg:pypi/h2@4.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "h5py",
+      "purl": "pkg:pypi/h5py@3.14.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.14.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "hangul-romanize",
+      "purl": "pkg:pypi/hangul-romanize@0.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "hf-xet",
+      "purl": "pkg:pypi/hf-xet@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The MIT License (MIT)\n        \n        C",
+      "name": "hpack",
+      "purl": "pkg:pypi/hpack@4.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "html5lib",
+      "purl": "pkg:pypi/html5lib@1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "htmldate",
+      "purl": "pkg:pypi/htmldate@1.9.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.9.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "httpcore",
+      "purl": "pkg:pypi/httpcore@1.0.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "httplib2",
+      "purl": "pkg:pypi/httplib2@0.31.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.31.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "httptools",
+      "purl": "pkg:pypi/httptools@0.7.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "httpx",
+      "purl": "pkg:pypi/httpx@0.28.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.28.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "httpx-sse",
+      "purl": "pkg:pypi/httpx-sse@0.4.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache",
+      "name": "huggingface-hub",
+      "purl": "pkg:pypi/huggingface-hub@0.36.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.36.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "humanfriendly",
+      "purl": "pkg:pypi/humanfriendly@10.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "10.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "humanize",
+      "purl": "pkg:pypi/humanize@4.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "hydra-colorlog",
+      "purl": "pkg:pypi/hydra-colorlog@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "hydra-core",
+      "purl": "pkg:pypi/hydra-core@1.3.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The MIT License (MIT)\n        \n        C",
+      "name": "hyperframe",
+      "purl": "pkg:pypi/hyperframe@6.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "HyperPyYAML",
+      "purl": "pkg:pypi/HyperPyYAML@1.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "idna",
+      "purl": "pkg:pypi/idna@3.11",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.11"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ImageIO",
+      "purl": "pkg:pypi/ImageIO@2.37.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.37.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "imageio-ffmpeg",
+      "purl": "pkg:pypi/imageio-ffmpeg@0.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "imagesize",
+      "purl": "pkg:pypi/imagesize@1.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "importlib_metadata",
+      "purl": "pkg:pypi/importlib_metadata@8.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "8.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "importlib_resources",
+      "purl": "pkg:pypi/importlib_resources@6.5.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.5.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "inflect",
+      "purl": "pkg:pypi/inflect@7.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "iniconfig",
+      "purl": "pkg:pypi/iniconfig@2.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "itsdangerous",
+      "purl": "pkg:pypi/itsdangerous@2.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "http://www.apache.org/licenses/LICENSE-2",
+      "name": "jamo",
+      "purl": "pkg:pypi/jamo@0.4.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "jieba",
+      "purl": "pkg:pypi/jieba@0.42.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.42.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Jinja2",
+      "purl": "pkg:pypi/Jinja2@3.1.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "jiter",
+      "purl": "pkg:pypi/jiter@0.14.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.14.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause",
+      "name": "joblib",
+      "purl": "pkg:pypi/joblib@1.5.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "Js2Py",
+      "purl": "pkg:pypi/Js2Py@0.74",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.74"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "jsonlines",
+      "purl": "pkg:pypi/jsonlines@4.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Modified BSD License",
+      "name": "jsonpatch",
+      "purl": "pkg:pypi/jsonpatch@1.33",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.33"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Modified BSD License",
+      "name": "jsonpointer",
+      "purl": "pkg:pypi/jsonpointer@3.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "jsonref",
+      "purl": "pkg:pypi/jsonref@1.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "jsonschema",
+      "purl": "pkg:pypi/jsonschema@4.23.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.23.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "jsonschema-specifications",
+      "purl": "pkg:pypi/jsonschema-specifications@2025.9.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.9.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "julius",
+      "purl": "pkg:pypi/julius@0.2.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The BSD 2-Clause License",
+      "name": "jusText",
+      "purl": "pkg:pypi/jusText@3.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "keras",
+      "purl": "pkg:pypi/keras@3.10.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.10.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "keyboard",
+      "purl": "pkg:pypi/keyboard@0.13.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "=========================\n         The K",
+      "name": "kiwisolver",
+      "purl": "pkg:pypi/kiwisolver@1.4.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "kombu",
+      "purl": "pkg:pypi/kombu@5.6.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.6.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License Version 2.0",
+      "name": "kubernetes",
+      "purl": "pkg:pypi/kubernetes@35.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "35.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GNU LESSER GENERAL PUBLIC LICENSE\n      ",
+      "name": "lameenc",
+      "purl": "pkg:pypi/lameenc@1.8.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.8.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain",
+      "purl": "pkg:pypi/langchain@0.3.28",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.28"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain-community",
+      "purl": "pkg:pypi/langchain-community@0.3.31",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.31"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain-core",
+      "purl": "pkg:pypi/langchain-core@0.3.83",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.83"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain-google-genai",
+      "purl": "pkg:pypi/langchain-google-genai@2.0.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain-openai",
+      "purl": "pkg:pypi/langchain-openai@0.3.35",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.35"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langchain-text-splitters",
+      "purl": "pkg:pypi/langchain-text-splitters@0.3.11",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.11"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "langgraph",
+      "purl": "pkg:pypi/langgraph@0.6.11",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.11"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "langgraph-checkpoint",
+      "purl": "pkg:pypi/langgraph-checkpoint@2.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "langgraph-prebuilt",
+      "purl": "pkg:pypi/langgraph-prebuilt@0.6.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "langgraph-sdk",
+      "purl": "pkg:pypi/langgraph-sdk@0.2.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "langsmith",
+      "purl": "pkg:pypi/langsmith@0.4.37",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.37"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "lark",
+      "purl": "pkg:pypi/lark@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "latex2mathml",
+      "purl": "pkg:pypi/latex2mathml@3.78.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.78.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License\n        \n        Co",
+      "name": "lazy_loader",
+      "purl": "pkg:pypi/lazy_loader@0.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Levenshtein",
+      "purl": "pkg:pypi/Levenshtein@0.27.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.27.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "libclang",
+      "purl": "pkg:pypi/libclang@18.1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "18.1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ISC",
+      "name": "librosa",
+      "purl": "pkg:pypi/librosa@0.10.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.10.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "lightning",
+      "purl": "pkg:pypi/lightning@2.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "lightning-utilities",
+      "purl": "pkg:pypi/lightning-utilities@0.15.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.15.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "litellm",
+      "purl": "pkg:pypi/litellm@1.83.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.83.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "llvmlite",
+      "purl": "pkg:pypi/llvmlite@0.43.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.43.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "loguru",
+      "purl": "pkg:pypi/loguru@0.7.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "lxml",
+      "purl": "pkg:pypi/lxml@6.1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "lxml_html_clean",
+      "purl": "pkg:pypi/lxml_html_clean@0.4.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "macholib",
+      "purl": "pkg:pypi/macholib@1.16.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.16.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "Mako",
+      "purl": "pkg:pypi/Mako@1.3.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Markdown",
+      "purl": "pkg:pypi/Markdown@3.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "markdown-it-py",
+      "purl": "pkg:pypi/markdown-it-py@3.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "markdownify",
+      "purl": "pkg:pypi/markdownify@1.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "markitdown",
+      "purl": "pkg:pypi/markitdown@0.0.1a1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.1a1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "marko",
+      "purl": "pkg:pypi/marko@2.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "MarkupSafe",
+      "purl": "pkg:pypi/MarkupSafe@3.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "marshmallow",
+      "purl": "pkg:pypi/marshmallow@3.26.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.26.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "PSF",
+      "name": "matplotlib",
+      "purl": "pkg:pypi/matplotlib@3.8.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.8.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "mdurl",
+      "purl": "pkg:pypi/mdurl@0.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "mediapipe",
+      "purl": "pkg:pypi/mediapipe@0.10.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.10.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "\n                                       ",
+      "name": "ml-dtypes",
+      "purl": "pkg:pypi/ml-dtypes@0.3.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License\n        \n        Copyright (",
+      "name": "mmh3",
+      "purl": "pkg:pypi/mmh3@5.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "modelscope",
+      "purl": "pkg:pypi/modelscope@1.36.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.36.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "more-itertools",
+      "purl": "pkg:pypi/more-itertools@10.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "10.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPLv3+",
+      "name": "MouseInfo",
+      "purl": "pkg:pypi/MouseInfo@0.1.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "moviepy",
+      "purl": "pkg:pypi/moviepy@1.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "mpire",
+      "purl": "pkg:pypi/mpire@2.10.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.10.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "mpmath",
+      "purl": "pkg:pypi/mpmath@1.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "msgpack",
+      "purl": "pkg:pypi/msgpack@1.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License\n        Copyright (c) 2013-2",
+      "name": "mss",
+      "purl": "pkg:pypi/mss@10.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "10.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "multidict",
+      "purl": "pkg:pypi/multidict@6.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "multiprocess",
+      "purl": "pkg:pypi/multiprocess@0.70.19",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.70.19"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache",
+      "name": "multitasking",
+      "purl": "pkg:pypi/multitasking@0.0.13",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.13"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "murmurhash",
+      "purl": "pkg:pypi/murmurhash@1.0.15",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.15"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "mypy_extensions",
+      "purl": "pkg:pypi/mypy_extensions@1.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "namex",
+      "purl": "pkg:pypi/namex@0.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License\n        \n        Copyright (",
+      "name": "narwhals",
+      "purl": "pkg:pypi/narwhals@2.20.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.20.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "networkx",
+      "purl": "pkg:pypi/networkx@2.8.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ninja",
+      "purl": "pkg:pypi/ninja@1.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License, Version 2.0",
+      "name": "nltk",
+      "purl": "pkg:pypi/nltk@3.9.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.9.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GNU",
+      "name": "nsepython",
+      "purl": "pkg:pypi/nsepython@2.97",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.97"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL",
+      "name": "num2words",
+      "purl": "pkg:pypi/num2words@0.5.14",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.14"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "numba",
+      "purl": "pkg:pypi/numba@0.60.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.60.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2005-2023, NumPy Developer",
+      "name": "numpy",
+      "purl": "pkg:pypi/numpy@1.26.4",
+      "scope": "required",
+      "type": "library",
+      "version": "1.26.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "oauthlib",
+      "purl": "pkg:pypi/oauthlib@3.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT license",
+      "name": "ocrmac",
+      "purl": "pkg:pypi/ocrmac@1.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ollama",
+      "purl": "pkg:pypi/ollama@0.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "omegaconf",
+      "purl": "pkg:pypi/omegaconf@2.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "onnxruntime",
+      "purl": "pkg:pypi/onnxruntime@1.19.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.19.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "openai",
+      "purl": "pkg:pypi/openai@2.24.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.24.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "openai-whisper",
+      "purl": "pkg:pypi/openai-whisper@20250625",
+      "scope": "optional",
+      "type": "library",
+      "version": "20250625"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "opencv-contrib-python",
+      "purl": "pkg:pypi/opencv-contrib-python@4.10.0.84",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.10.0.84"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "opencv-python",
+      "purl": "pkg:pypi/opencv-python@4.9.0.80",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.9.0.80"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "opencv-python-headless",
+      "purl": "pkg:pypi/opencv-python-headless@4.13.0.90",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.13.0.90"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "opencv-transforms",
+      "purl": "pkg:pypi/opencv-transforms@0.0.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "openpyxl",
+      "purl": "pkg:pypi/openpyxl@3.1.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-api",
+      "purl": "pkg:pypi/opentelemetry-api@1.41.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.41.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-exporter-otlp-proto-common",
+      "purl": "pkg:pypi/opentelemetry-exporter-otlp-proto-common@1.41.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.41.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-exporter-otlp-proto-grpc",
+      "purl": "pkg:pypi/opentelemetry-exporter-otlp-proto-grpc@1.41.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.41.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-proto",
+      "purl": "pkg:pypi/opentelemetry-proto@1.41.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.41.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-sdk",
+      "purl": "pkg:pypi/opentelemetry-sdk@1.41.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.41.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "opentelemetry-semantic-conventions",
+      "purl": "pkg:pypi/opentelemetry-semantic-conventions@0.62b0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.62b0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "openunmix",
+      "purl": "pkg:pypi/openunmix@1.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "opt-einsum",
+      "purl": "pkg:pypi/opt-einsum@3.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "optree",
+      "purl": "pkg:pypi/optree@0.20.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.20.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "optuna",
+      "purl": "pkg:pypi/optuna@4.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "orjson",
+      "purl": "pkg:pypi/orjson@3.11.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.11.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ormsgpack",
+      "purl": "pkg:pypi/ormsgpack@1.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License, Version 2.0",
+      "name": "overrides",
+      "purl": "pkg:pypi/overrides@7.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "packaging",
+      "purl": "pkg:pypi/packaging@25.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "25.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "paddleocr",
+      "purl": "pkg:pypi/paddleocr@3.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache Software License",
+      "name": "paddlepaddle",
+      "purl": "pkg:pypi/paddlepaddle@3.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "paddlex",
+      "purl": "pkg:pypi/paddlex@3.5.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.5.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License\n        \n        Co",
+      "name": "pandas",
+      "purl": "pkg:pypi/pandas@2.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "patchright",
+      "purl": "pkg:pypi/patchright@1.59.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.59.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pdf2image",
+      "purl": "pkg:pypi/pdf2image@1.17.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.17.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pdfminer.six",
+      "purl": "pkg:pypi/pdfminer.six@20251107",
+      "scope": "optional",
+      "type": "library",
+      "version": "20251107"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pdfplumber",
+      "purl": "pkg:pypi/pdfplumber@0.11.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.11.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "peewee",
+      "purl": "pkg:pypi/peewee@4.0.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.0.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pesq",
+      "purl": "pkg:pypi/pesq@0.0.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "pexels-api",
+      "purl": "pkg:pypi/pexels-api@1.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pikepdf",
+      "purl": "pkg:pypi/pikepdf@9.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "9.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pillow",
+      "purl": "pkg:pypi/pillow@11.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pip",
+      "purl": "pkg:pypi/pip@25.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "25.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPL-3.0-or-later",
+      "name": "piper-tts",
+      "purl": "pkg:pypi/piper-tts@1.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "platformdirs",
+      "purl": "pkg:pypi/platformdirs@4.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "playwright",
+      "purl": "pkg:pypi/playwright@1.58.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.58.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "playwright-stealth",
+      "purl": "pkg:pypi/playwright-stealth@2.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "plotly",
+      "purl": "pkg:pypi/plotly@6.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pluggy",
+      "purl": "pkg:pypi/pluggy@1.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pocketsphinx",
+      "purl": "pkg:pypi/pocketsphinx@5.0.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.0.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2025 Ritchie Vink\n        ",
+      "name": "polars",
+      "purl": "pkg:pypi/polars@1.36.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.36.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "polars-runtime-32",
+      "purl": "pkg:pypi/polars-runtime-32@1.36.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.36.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "polyfactory",
+      "purl": "pkg:pypi/polyfactory@3.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "pooch",
+      "purl": "pkg:pypi/pooch@1.8.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "preshed",
+      "purl": "pkg:pypi/preshed@3.0.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "prettytable",
+      "purl": "pkg:pypi/prettytable@3.16.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.16.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "primePy",
+      "purl": "pkg:pypi/primePy@1.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "primp",
+      "purl": "pkg:pypi/primp@0.15.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.15.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "proglog",
+      "purl": "pkg:pypi/proglog@0.1.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "prompt_toolkit",
+      "purl": "pkg:pypi/prompt_toolkit@3.0.52",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.52"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "propcache",
+      "purl": "pkg:pypi/propcache@0.4.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "proto-plus",
+      "purl": "pkg:pypi/proto-plus@1.27.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.27.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "3-Clause BSD License",
+      "name": "protobuf",
+      "purl": "pkg:pypi/protobuf@4.25.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.25.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "proxy_tools",
+      "purl": "pkg:pypi/proxy_tools@0.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "psutil",
+      "purl": "pkg:pypi/psutil@7.1.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.1.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL with exceptions",
+      "name": "psycopg2-binary",
+      "purl": "pkg:pypi/psycopg2-binary@2.9.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.9.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "py-cpuinfo",
+      "purl": "pkg:pypi/py-cpuinfo@9.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "9.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "mit",
+      "name": "pyannote.audio",
+      "purl": "pkg:pypi/pyannote.audio@3.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyannote.core",
+      "purl": "pkg:pypi/pyannote.core@5.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyannote.database",
+      "purl": "pkg:pypi/pyannote.database@5.1.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.1.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "pyannote.metrics",
+      "purl": "pkg:pypi/pyannote.metrics@3.2.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.2.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyannote.pipeline",
+      "purl": "pkg:pypi/pyannote.pipeline@3.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache Software License",
+      "name": "pyarrow",
+      "purl": "pkg:pypi/pyarrow@21.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "21.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "pyasn1",
+      "purl": "pkg:pypi/pyasn1@0.6.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "pyasn1_modules",
+      "purl": "pkg:pypi/pyasn1_modules@0.4.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "PyAudio",
+      "purl": "pkg:pypi/PyAudio@0.2.14",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.14"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "PyAutoGUI",
+      "purl": "pkg:pypi/PyAutoGUI@0.9.54",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.54"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "pybase64",
+      "purl": "pkg:pypi/pybase64@1.4.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pycares",
+      "purl": "pkg:pypi/pycares@4.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyclipper",
+      "purl": "pkg:pypi/pyclipper@1.3.0.post6",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.0.post6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "pycparser",
+      "purl": "pkg:pypi/pycparser@2.23",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.23"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD, Public Domain",
+      "name": "pycryptodome",
+      "purl": "pkg:pypi/pycryptodome@3.23.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.23.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pydantic",
+      "purl": "pkg:pypi/pydantic@2.12.5",
+      "scope": "required",
+      "type": "library",
+      "version": "2.12.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pydantic-settings",
+      "purl": "pkg:pypi/pydantic-settings@2.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pydantic_core",
+      "purl": "pkg:pypi/pydantic_core@2.41.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.41.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "pydeck",
+      "purl": "pkg:pypi/pydeck@0.9.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pydub",
+      "purl": "pkg:pypi/pydub@0.25.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.25.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyee",
+      "purl": "pkg:pypi/pyee@13.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "13.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyflakes",
+      "purl": "pkg:pypi/pyflakes@3.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPL",
+      "name": "pygame",
+      "purl": "pkg:pypi/pygame@2.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pygbag",
+      "purl": "pkg:pypi/pygbag@0.9.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "PyGetWindow",
+      "purl": "pkg:pypi/PyGetWindow@0.0.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "Pygments",
+      "purl": "pkg:pypi/Pygments@2.19.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.19.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPLv2-or-later with a special exception ",
+      "name": "pyinstaller",
+      "purl": "pkg:pypi/pyinstaller@6.21.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.21.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyinstaller-hooks-contrib",
+      "purl": "pkg:pypi/pyinstaller-hooks-contrib@2026.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "2026.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyjsparser",
+      "purl": "pkg:pypi/pyjsparser@2.7.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.7.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "PyJWT",
+      "purl": "pkg:pypi/PyJWT@2.12.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.12.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pylatexenc",
+      "purl": "pkg:pypi/pylatexenc@2.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2014, Al Sweigart\n        ",
+      "name": "PyMsgBox",
+      "purl": "pkg:pypi/PyMsgBox@2.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Ar",
+      "name": "PyMuPDF",
+      "purl": "pkg:pypi/PyMuPDF@1.26.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.26.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Dual Licensed - GNU AFFERO GPL 3.0 or Ar",
+      "name": "pymupdf4llm",
+      "purl": "pkg:pypi/pymupdf4llm@0.0.27",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.27"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "pynndescent",
+      "purl": "pkg:pypi/pynndescent@0.5.13",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.13"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "LGPLv3",
+      "name": "pynput",
+      "purl": "pkg:pypi/pynput@1.8.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc",
+      "purl": "pkg:pypi/pyobjc@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-core",
+      "purl": "pkg:pypi/pyobjc-core@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Accessibility",
+      "purl": "pkg:pypi/pyobjc-framework-Accessibility@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Accounts",
+      "purl": "pkg:pypi/pyobjc-framework-Accounts@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AddressBook",
+      "purl": "pkg:pypi/pyobjc-framework-AddressBook@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AdServices",
+      "purl": "pkg:pypi/pyobjc-framework-AdServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AdSupport",
+      "purl": "pkg:pypi/pyobjc-framework-AdSupport@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AppleScriptKit",
+      "purl": "pkg:pypi/pyobjc-framework-AppleScriptKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AppleScriptObjC",
+      "purl": "pkg:pypi/pyobjc-framework-AppleScriptObjC@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ApplicationServices",
+      "purl": "pkg:pypi/pyobjc-framework-ApplicationServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AppTrackingTransparency",
+      "purl": "pkg:pypi/pyobjc-framework-AppTrackingTransparency@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AudioVideoBridging",
+      "purl": "pkg:pypi/pyobjc-framework-AudioVideoBridging@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AuthenticationServices",
+      "purl": "pkg:pypi/pyobjc-framework-AuthenticationServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AutomaticAssessmentConfiguration",
+      "purl": "pkg:pypi/pyobjc-framework-AutomaticAssessmentConfiguration@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Automator",
+      "purl": "pkg:pypi/pyobjc-framework-Automator@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AVFoundation",
+      "purl": "pkg:pypi/pyobjc-framework-AVFoundation@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AVKit",
+      "purl": "pkg:pypi/pyobjc-framework-AVKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-AVRouting",
+      "purl": "pkg:pypi/pyobjc-framework-AVRouting@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-BackgroundAssets",
+      "purl": "pkg:pypi/pyobjc-framework-BackgroundAssets@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-BrowserEngineKit",
+      "purl": "pkg:pypi/pyobjc-framework-BrowserEngineKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-BusinessChat",
+      "purl": "pkg:pypi/pyobjc-framework-BusinessChat@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CalendarStore",
+      "purl": "pkg:pypi/pyobjc-framework-CalendarStore@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CallKit",
+      "purl": "pkg:pypi/pyobjc-framework-CallKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Carbon",
+      "purl": "pkg:pypi/pyobjc-framework-Carbon@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CFNetwork",
+      "purl": "pkg:pypi/pyobjc-framework-CFNetwork@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Cinematic",
+      "purl": "pkg:pypi/pyobjc-framework-Cinematic@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ClassKit",
+      "purl": "pkg:pypi/pyobjc-framework-ClassKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CloudKit",
+      "purl": "pkg:pypi/pyobjc-framework-CloudKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Cocoa",
+      "purl": "pkg:pypi/pyobjc-framework-Cocoa@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Collaboration",
+      "purl": "pkg:pypi/pyobjc-framework-Collaboration@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ColorSync",
+      "purl": "pkg:pypi/pyobjc-framework-ColorSync@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Contacts",
+      "purl": "pkg:pypi/pyobjc-framework-Contacts@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ContactsUI",
+      "purl": "pkg:pypi/pyobjc-framework-ContactsUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreAudio",
+      "purl": "pkg:pypi/pyobjc-framework-CoreAudio@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreAudioKit",
+      "purl": "pkg:pypi/pyobjc-framework-CoreAudioKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreBluetooth",
+      "purl": "pkg:pypi/pyobjc-framework-CoreBluetooth@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreData",
+      "purl": "pkg:pypi/pyobjc-framework-CoreData@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreHaptics",
+      "purl": "pkg:pypi/pyobjc-framework-CoreHaptics@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreLocation",
+      "purl": "pkg:pypi/pyobjc-framework-CoreLocation@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreMedia",
+      "purl": "pkg:pypi/pyobjc-framework-CoreMedia@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreMediaIO",
+      "purl": "pkg:pypi/pyobjc-framework-CoreMediaIO@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreMIDI",
+      "purl": "pkg:pypi/pyobjc-framework-CoreMIDI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreML",
+      "purl": "pkg:pypi/pyobjc-framework-CoreML@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreMotion",
+      "purl": "pkg:pypi/pyobjc-framework-CoreMotion@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreServices",
+      "purl": "pkg:pypi/pyobjc-framework-CoreServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreSpotlight",
+      "purl": "pkg:pypi/pyobjc-framework-CoreSpotlight@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreText",
+      "purl": "pkg:pypi/pyobjc-framework-CoreText@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CoreWLAN",
+      "purl": "pkg:pypi/pyobjc-framework-CoreWLAN@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-CryptoTokenKit",
+      "purl": "pkg:pypi/pyobjc-framework-CryptoTokenKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DataDetection",
+      "purl": "pkg:pypi/pyobjc-framework-DataDetection@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DeviceCheck",
+      "purl": "pkg:pypi/pyobjc-framework-DeviceCheck@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DeviceDiscoveryExtension",
+      "purl": "pkg:pypi/pyobjc-framework-DeviceDiscoveryExtension@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DictionaryServices",
+      "purl": "pkg:pypi/pyobjc-framework-DictionaryServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DiscRecording",
+      "purl": "pkg:pypi/pyobjc-framework-DiscRecording@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DiscRecordingUI",
+      "purl": "pkg:pypi/pyobjc-framework-DiscRecordingUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DiskArbitration",
+      "purl": "pkg:pypi/pyobjc-framework-DiskArbitration@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-DVDPlayback",
+      "purl": "pkg:pypi/pyobjc-framework-DVDPlayback@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-EventKit",
+      "purl": "pkg:pypi/pyobjc-framework-EventKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ExceptionHandling",
+      "purl": "pkg:pypi/pyobjc-framework-ExceptionHandling@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ExecutionPolicy",
+      "purl": "pkg:pypi/pyobjc-framework-ExecutionPolicy@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ExtensionKit",
+      "purl": "pkg:pypi/pyobjc-framework-ExtensionKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ExternalAccessory",
+      "purl": "pkg:pypi/pyobjc-framework-ExternalAccessory@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-FileProvider",
+      "purl": "pkg:pypi/pyobjc-framework-FileProvider@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-FileProviderUI",
+      "purl": "pkg:pypi/pyobjc-framework-FileProviderUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-FinderSync",
+      "purl": "pkg:pypi/pyobjc-framework-FinderSync@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-FSEvents",
+      "purl": "pkg:pypi/pyobjc-framework-FSEvents@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-FSKit",
+      "purl": "pkg:pypi/pyobjc-framework-FSKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-GameCenter",
+      "purl": "pkg:pypi/pyobjc-framework-GameCenter@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-GameController",
+      "purl": "pkg:pypi/pyobjc-framework-GameController@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-GameKit",
+      "purl": "pkg:pypi/pyobjc-framework-GameKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-GameplayKit",
+      "purl": "pkg:pypi/pyobjc-framework-GameplayKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-HealthKit",
+      "purl": "pkg:pypi/pyobjc-framework-HealthKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ImageCaptureCore",
+      "purl": "pkg:pypi/pyobjc-framework-ImageCaptureCore@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-InputMethodKit",
+      "purl": "pkg:pypi/pyobjc-framework-InputMethodKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-InstallerPlugins",
+      "purl": "pkg:pypi/pyobjc-framework-InstallerPlugins@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-InstantMessage",
+      "purl": "pkg:pypi/pyobjc-framework-InstantMessage@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Intents",
+      "purl": "pkg:pypi/pyobjc-framework-Intents@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-IntentsUI",
+      "purl": "pkg:pypi/pyobjc-framework-IntentsUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-IOBluetooth",
+      "purl": "pkg:pypi/pyobjc-framework-IOBluetooth@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-IOBluetoothUI",
+      "purl": "pkg:pypi/pyobjc-framework-IOBluetoothUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-IOSurface",
+      "purl": "pkg:pypi/pyobjc-framework-IOSurface@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-iTunesLibrary",
+      "purl": "pkg:pypi/pyobjc-framework-iTunesLibrary@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-KernelManagement",
+      "purl": "pkg:pypi/pyobjc-framework-KernelManagement@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-LatentSemanticMapping",
+      "purl": "pkg:pypi/pyobjc-framework-LatentSemanticMapping@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-LaunchServices",
+      "purl": "pkg:pypi/pyobjc-framework-LaunchServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-libdispatch",
+      "purl": "pkg:pypi/pyobjc-framework-libdispatch@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-libxpc",
+      "purl": "pkg:pypi/pyobjc-framework-libxpc@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-LinkPresentation",
+      "purl": "pkg:pypi/pyobjc-framework-LinkPresentation@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-LocalAuthentication",
+      "purl": "pkg:pypi/pyobjc-framework-LocalAuthentication@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-LocalAuthenticationEmbeddedUI",
+      "purl": "pkg:pypi/pyobjc-framework-LocalAuthenticationEmbeddedUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MailKit",
+      "purl": "pkg:pypi/pyobjc-framework-MailKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MapKit",
+      "purl": "pkg:pypi/pyobjc-framework-MapKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MediaAccessibility",
+      "purl": "pkg:pypi/pyobjc-framework-MediaAccessibility@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MediaExtension",
+      "purl": "pkg:pypi/pyobjc-framework-MediaExtension@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MediaLibrary",
+      "purl": "pkg:pypi/pyobjc-framework-MediaLibrary@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MediaPlayer",
+      "purl": "pkg:pypi/pyobjc-framework-MediaPlayer@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MediaToolbox",
+      "purl": "pkg:pypi/pyobjc-framework-MediaToolbox@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Metal",
+      "purl": "pkg:pypi/pyobjc-framework-Metal@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MetalFX",
+      "purl": "pkg:pypi/pyobjc-framework-MetalFX@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MetalKit",
+      "purl": "pkg:pypi/pyobjc-framework-MetalKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MetalPerformanceShaders",
+      "purl": "pkg:pypi/pyobjc-framework-MetalPerformanceShaders@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MetalPerformanceShadersGraph",
+      "purl": "pkg:pypi/pyobjc-framework-MetalPerformanceShadersGraph@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MetricKit",
+      "purl": "pkg:pypi/pyobjc-framework-MetricKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MLCompute",
+      "purl": "pkg:pypi/pyobjc-framework-MLCompute@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ModelIO",
+      "purl": "pkg:pypi/pyobjc-framework-ModelIO@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-MultipeerConnectivity",
+      "purl": "pkg:pypi/pyobjc-framework-MultipeerConnectivity@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-NaturalLanguage",
+      "purl": "pkg:pypi/pyobjc-framework-NaturalLanguage@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-NetFS",
+      "purl": "pkg:pypi/pyobjc-framework-NetFS@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Network",
+      "purl": "pkg:pypi/pyobjc-framework-Network@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-NetworkExtension",
+      "purl": "pkg:pypi/pyobjc-framework-NetworkExtension@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-NotificationCenter",
+      "purl": "pkg:pypi/pyobjc-framework-NotificationCenter@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-OpenDirectory",
+      "purl": "pkg:pypi/pyobjc-framework-OpenDirectory@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-OSAKit",
+      "purl": "pkg:pypi/pyobjc-framework-OSAKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-OSLog",
+      "purl": "pkg:pypi/pyobjc-framework-OSLog@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PassKit",
+      "purl": "pkg:pypi/pyobjc-framework-PassKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PencilKit",
+      "purl": "pkg:pypi/pyobjc-framework-PencilKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PHASE",
+      "purl": "pkg:pypi/pyobjc-framework-PHASE@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Photos",
+      "purl": "pkg:pypi/pyobjc-framework-Photos@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PhotosUI",
+      "purl": "pkg:pypi/pyobjc-framework-PhotosUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PreferencePanes",
+      "purl": "pkg:pypi/pyobjc-framework-PreferencePanes@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-PushKit",
+      "purl": "pkg:pypi/pyobjc-framework-PushKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Quartz",
+      "purl": "pkg:pypi/pyobjc-framework-Quartz@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-QuickLookThumbnailing",
+      "purl": "pkg:pypi/pyobjc-framework-QuickLookThumbnailing@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ReplayKit",
+      "purl": "pkg:pypi/pyobjc-framework-ReplayKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SafariServices",
+      "purl": "pkg:pypi/pyobjc-framework-SafariServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SafetyKit",
+      "purl": "pkg:pypi/pyobjc-framework-SafetyKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SceneKit",
+      "purl": "pkg:pypi/pyobjc-framework-SceneKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ScreenCaptureKit",
+      "purl": "pkg:pypi/pyobjc-framework-ScreenCaptureKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ScreenSaver",
+      "purl": "pkg:pypi/pyobjc-framework-ScreenSaver@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ScreenTime",
+      "purl": "pkg:pypi/pyobjc-framework-ScreenTime@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ScriptingBridge",
+      "purl": "pkg:pypi/pyobjc-framework-ScriptingBridge@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SearchKit",
+      "purl": "pkg:pypi/pyobjc-framework-SearchKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Security",
+      "purl": "pkg:pypi/pyobjc-framework-Security@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SecurityFoundation",
+      "purl": "pkg:pypi/pyobjc-framework-SecurityFoundation@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SecurityInterface",
+      "purl": "pkg:pypi/pyobjc-framework-SecurityInterface@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SecurityUI",
+      "purl": "pkg:pypi/pyobjc-framework-SecurityUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SensitiveContentAnalysis",
+      "purl": "pkg:pypi/pyobjc-framework-SensitiveContentAnalysis@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ServiceManagement",
+      "purl": "pkg:pypi/pyobjc-framework-ServiceManagement@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SharedWithYou",
+      "purl": "pkg:pypi/pyobjc-framework-SharedWithYou@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SharedWithYouCore",
+      "purl": "pkg:pypi/pyobjc-framework-SharedWithYouCore@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ShazamKit",
+      "purl": "pkg:pypi/pyobjc-framework-ShazamKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Social",
+      "purl": "pkg:pypi/pyobjc-framework-Social@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SoundAnalysis",
+      "purl": "pkg:pypi/pyobjc-framework-SoundAnalysis@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Speech",
+      "purl": "pkg:pypi/pyobjc-framework-Speech@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SpriteKit",
+      "purl": "pkg:pypi/pyobjc-framework-SpriteKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-StoreKit",
+      "purl": "pkg:pypi/pyobjc-framework-StoreKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Symbols",
+      "purl": "pkg:pypi/pyobjc-framework-Symbols@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SyncServices",
+      "purl": "pkg:pypi/pyobjc-framework-SyncServices@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SystemConfiguration",
+      "purl": "pkg:pypi/pyobjc-framework-SystemConfiguration@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-SystemExtensions",
+      "purl": "pkg:pypi/pyobjc-framework-SystemExtensions@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-ThreadNetwork",
+      "purl": "pkg:pypi/pyobjc-framework-ThreadNetwork@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-UniformTypeIdentifiers",
+      "purl": "pkg:pypi/pyobjc-framework-UniformTypeIdentifiers@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-UserNotifications",
+      "purl": "pkg:pypi/pyobjc-framework-UserNotifications@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-UserNotificationsUI",
+      "purl": "pkg:pypi/pyobjc-framework-UserNotificationsUI@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-VideoSubscriberAccount",
+      "purl": "pkg:pypi/pyobjc-framework-VideoSubscriberAccount@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-VideoToolbox",
+      "purl": "pkg:pypi/pyobjc-framework-VideoToolbox@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Virtualization",
+      "purl": "pkg:pypi/pyobjc-framework-Virtualization@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-Vision",
+      "purl": "pkg:pypi/pyobjc-framework-Vision@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pyobjc-framework-WebKit",
+      "purl": "pkg:pypi/pyobjc-framework-WebKit@11.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "11.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License, Version 2.0",
+      "name": "pyOpenSSL",
+      "purl": "pkg:pypi/pyOpenSSL@26.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "26.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyparsing",
+      "purl": "pkg:pypi/pyparsing@3.2.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.2.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pypdf",
+      "purl": "pkg:pypi/pypdf@3.17.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.17.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "PyPDF2",
+      "purl": "pkg:pypi/PyPDF2@3.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause, Apache-2.0, dependency lic",
+      "name": "pypdfium2",
+      "purl": "pkg:pypi/pypdfium2@5.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "pyperclip",
+      "purl": "pkg:pypi/pyperclip@1.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License Version 2.0",
+      "name": "PyPika",
+      "purl": "pkg:pypi/PyPika@0.51.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.51.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pypinyin",
+      "purl": "pkg:pypi/pypinyin@0.55.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.55.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause",
+      "name": "PyPrind",
+      "purl": "pkg:pypi/PyPrind@2.11.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.11.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyproject_hooks",
+      "purl": "pkg:pypi/pyproject_hooks@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "PyRect",
+      "purl": "pkg:pypi/PyRect@0.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ISC",
+      "name": "pyrubberband",
+      "purl": "pkg:pypi/pyrubberband@0.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pysbd",
+      "purl": "pkg:pypi/pysbd@0.3.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "PyScreeze",
+      "purl": "pkg:pypi/PyScreeze@1.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Public Domain",
+      "name": "pySmartDL",
+      "purl": "pkg:pypi/pySmartDL@1.3.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pystoi",
+      "purl": "pkg:pypi/pystoi@0.4.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "pytesseract",
+      "purl": "pkg:pypi/pytesseract@0.3.13",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.13"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pytest",
+      "purl": "pkg:pypi/pytest@8.4.2",
+      "scope": "required",
+      "type": "library",
+      "version": "8.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pytest-asyncio",
+      "purl": "pkg:pypi/pytest-asyncio@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pytest-cov",
+      "purl": "pkg:pypi/pytest-cov@7.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "python-bidi",
+      "purl": "pkg:pypi/python-bidi@0.6.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "python-crfsuite",
+      "purl": "pkg:pypi/python-crfsuite@0.9.11",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.11"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Dual License",
+      "name": "python-dateutil",
+      "purl": "pkg:pypi/python-dateutil@2.9.0.post0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.9.0.post0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "python-docx",
+      "purl": "pkg:pypi/python-docx@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "python-dotenv",
+      "purl": "pkg:pypi/python-dotenv@1.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "python-engineio",
+      "purl": "pkg:pypi/python-engineio@4.13.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.13.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPL-2.0-or-later",
+      "name": "python-Levenshtein",
+      "purl": "pkg:pypi/python-Levenshtein@0.27.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.27.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "python-magic",
+      "purl": "pkg:pypi/python-magic@0.4.27",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.27"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "python-multipart",
+      "purl": "pkg:pypi/python-multipart@0.0.20",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.20"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "python-pptx",
+      "purl": "pkg:pypi/python-pptx@1.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "python-socketio",
+      "purl": "pkg:pypi/python-socketio@5.16.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.16.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "pytorch-lightning",
+      "purl": "pkg:pypi/pytorch-lightning@2.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "pytorch-metric-learning",
+      "purl": "pkg:pypi/pytorch-metric-learning@2.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "pyttsx3",
+      "purl": "pkg:pypi/pyttsx3@2.99",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.99"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pytweening",
+      "purl": "pkg:pypi/pytweening@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pytz",
+      "purl": "pkg:pypi/pytz@2025.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2006-2012 Filip Wasilewski",
+      "name": "PyWavelets",
+      "purl": "pkg:pypi/PyWavelets@1.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License\n        \n        Co",
+      "name": "pywebview",
+      "purl": "pkg:pypi/pywebview@6.2.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.2.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "pywhatkit",
+      "purl": "pkg:pypi/pywhatkit@5.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "PyYAML",
+      "purl": "pkg:pypi/PyYAML@6.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache2.0",
+      "name": "rank-bm25",
+      "purl": "pkg:pypi/rank-bm25@0.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "RapidFuzz",
+      "purl": "pkg:pypi/RapidFuzz@3.13.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.13.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "rapidocr",
+      "purl": "pkg:pypi/rapidocr@3.8.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.8.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "redis",
+      "purl": "pkg:pypi/redis@7.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "referencing",
+      "purl": "pkg:pypi/referencing@0.36.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.36.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "regex",
+      "purl": "pkg:pypi/regex@2025.11.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.11.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "requests",
+      "purl": "pkg:pypi/requests@2.32.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.32.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ISC",
+      "name": "requests-oauthlib",
+      "purl": "pkg:pypi/requests-oauthlib@2.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "requests-toolbelt",
+      "purl": "pkg:pypi/requests-toolbelt@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "Resemblyzer",
+      "purl": "pkg:pypi/Resemblyzer@0.1.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "retrying",
+      "purl": "pkg:pypi/retrying@1.4.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "rich",
+      "purl": "pkg:pypi/rich@14.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "14.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "rpds-py",
+      "purl": "pkg:pypi/rpds-py@0.27.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.27.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "rtree",
+      "purl": "pkg:pypi/rtree@1.4.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ruamel.yaml",
+      "purl": "pkg:pypi/ruamel.yaml@0.18.16",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.18.16"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "ruamel.yaml.clib",
+      "purl": "pkg:pypi/ruamel.yaml.clib@0.2.15",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.15"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "rubicon-objc",
+      "purl": "pkg:pypi/rubicon-objc@0.5.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ruff",
+      "purl": "pkg:pypi/ruff@0.16.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.16.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "safetensors",
+      "purl": "pkg:pypi/safetensors@0.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "scenedetect",
+      "purl": "pkg:pypi/scenedetect@0.6.7.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.7.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "schedule",
+      "purl": "pkg:pypi/schedule@1.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Files: *\n        Copyright: 2009-2022 th",
+      "name": "scikit-image",
+      "purl": "pkg:pypi/scikit-image@0.21.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.21.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License\n         \n         ",
+      "name": "scikit-learn",
+      "purl": "pkg:pypi/scikit-learn@1.6.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.6.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2001-2002 Enthought, Inc. ",
+      "name": "scipy",
+      "purl": "pkg:pypi/scipy@1.13.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.13.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "semchunk",
+      "purl": "pkg:pypi/semchunk@2.2.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2013, Konstantine Rybnikov",
+      "name": "semver",
+      "purl": "pkg:pypi/semver@3.0.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "sentence-transformers",
+      "purl": "pkg:pypi/sentence-transformers@5.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "sentencepiece",
+      "purl": "pkg:pypi/sentencepiece@0.2.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "serpapi",
+      "purl": "pkg:pypi/serpapi@1.0.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "setuptools",
+      "purl": "pkg:pypi/setuptools@79.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "79.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD License",
+      "name": "sgmllib3k",
+      "purl": "pkg:pypi/sgmllib3k@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause",
+      "name": "shapely",
+      "purl": "pkg:pypi/shapely@2.0.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ISC License",
+      "name": "shellingham",
+      "purl": "pkg:pypi/shellingham@1.5.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "simple-websocket",
+      "purl": "pkg:pypi/simple-websocket@1.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "six",
+      "purl": "pkg:pypi/six@1.17.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.17.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "sixdrepnet",
+      "purl": "pkg:pypi/sixdrepnet@0.1.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.1.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "smart_open",
+      "purl": "pkg:pypi/smart_open@7.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "7.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "smmap",
+      "purl": "pkg:pypi/smmap@5.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT OR Apache-2.0",
+      "name": "sniffio",
+      "purl": "pkg:pypi/sniffio@1.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "snowballstemmer",
+      "purl": "pkg:pypi/snowballstemmer@2.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "socksio",
+      "purl": "pkg:pypi/socksio@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "sortedcontainers",
+      "purl": "pkg:pypi/sortedcontainers@2.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "sounddevice",
+      "purl": "pkg:pypi/sounddevice@0.5.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause License",
+      "name": "soundfile",
+      "purl": "pkg:pypi/soundfile@0.13.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "soupsieve",
+      "purl": "pkg:pypi/soupsieve@2.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "soxr",
+      "purl": "pkg:pypi/soxr@1.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "spacy",
+      "purl": "pkg:pypi/spacy@3.8.11",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.8.11"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "spacy-legacy",
+      "purl": "pkg:pypi/spacy-legacy@3.0.12",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.0.12"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "spacy-loggers",
+      "purl": "pkg:pypi/spacy-loggers@1.0.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "spectralcluster",
+      "purl": "pkg:pypi/spectralcluster@0.2.22",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.22"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "speechbrain",
+      "purl": "pkg:pypi/speechbrain@1.0.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.0.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "SpeechRecognition",
+      "purl": "pkg:pypi/SpeechRecognition@3.14.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.14.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "spotipy",
+      "purl": "pkg:pypi/spotipy@2.25.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.25.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "SQLAlchemy",
+      "purl": "pkg:pypi/SQLAlchemy@2.0.44",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.44"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "srsly",
+      "purl": "pkg:pypi/srsly@2.5.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.5.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "srt",
+      "purl": "pkg:pypi/srt@3.5.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.5.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache Software License v2",
+      "name": "sseclient-py",
+      "purl": "pkg:pypi/sseclient-py@1.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "starlette",
+      "purl": "pkg:pypi/starlette@0.49.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.49.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache License 2.0",
+      "name": "streamlit",
+      "purl": "pkg:pypi/streamlit@1.50.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.50.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "submitit",
+      "purl": "pkg:pypi/submitit@1.5.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.5.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "SudachiDict-core",
+      "purl": "pkg:pypi/SudachiDict-core@20251022",
+      "scope": "optional",
+      "type": "library",
+      "version": "20251022"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "SudachiPy",
+      "purl": "pkg:pypi/SudachiPy@0.6.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.6.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "sympy",
+      "purl": "pkg:pypi/sympy@1.14.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.14.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tabulate",
+      "purl": "pkg:pypi/tabulate@0.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tavily-python",
+      "purl": "pkg:pypi/tavily-python@0.7.24",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.24"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "teach-a-skill",
+      "purl": "pkg:pypi/teach-a-skill@0.1.0",
+      "scope": "required",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "teach-a-skill",
+      "purl": "pkg:pypi/teach-a-skill@0.1.0",
+      "scope": "required",
+      "type": "library",
+      "version": "0.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "tenacity",
+      "purl": "pkg:pypi/tenacity@9.1.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "9.1.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "tensorboard",
+      "purl": "pkg:pypi/tensorboard@2.16.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.16.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "tensorboard-data-server",
+      "purl": "pkg:pypi/tensorboard-data-server@0.7.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tensorboardX",
+      "purl": "pkg:pypi/tensorboardX@2.6.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.6.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "tensorflow",
+      "purl": "pkg:pypi/tensorflow@2.16.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.16.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tensorflow-io-gcs-filesystem",
+      "purl": "pkg:pypi/tensorflow-io-gcs-filesystem@0.37.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.37.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "termcolor",
+      "purl": "pkg:pypi/termcolor@3.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tf-playwright-stealth",
+      "purl": "pkg:pypi/tf-playwright-stealth@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "thinc",
+      "purl": "pkg:pypi/thinc@8.3.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "8.3.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "threadpoolctl",
+      "purl": "pkg:pypi/threadpoolctl@3.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "tifffile",
+      "purl": "pkg:pypi/tifffile@2024.8.30",
+      "scope": "optional",
+      "type": "library",
+      "version": "2024.8.30"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License\n        \n        Copyright (",
+      "name": "tiktoken",
+      "purl": "pkg:pypi/tiktoken@0.12.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tld",
+      "purl": "pkg:pypi/tld@0.13.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.13.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tokenizers",
+      "purl": "pkg:pypi/tokenizers@0.22.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.22.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "toml",
+      "purl": "pkg:pypi/toml@0.10.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.10.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tomli",
+      "purl": "pkg:pypi/tomli@2.3.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.3.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "torch",
+      "purl": "pkg:pypi/torch@2.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "torch-audiomentations",
+      "purl": "pkg:pypi/torch-audiomentations@0.12.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.12.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "torch_pitch_shift",
+      "purl": "pkg:pypi/torch_pitch_shift@1.2.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "torchaudio",
+      "purl": "pkg:pypi/torchaudio@2.8.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.8.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "torchdiffeq",
+      "purl": "pkg:pypi/torchdiffeq@0.2.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "torchmetrics",
+      "purl": "pkg:pypi/torchmetrics@1.8.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.8.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "torchvision",
+      "purl": "pkg:pypi/torchvision@0.23.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "tornado",
+      "purl": "pkg:pypi/tornado@6.5.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "6.5.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MPL-2.0 AND MIT",
+      "name": "tqdm",
+      "purl": "pkg:pypi/tqdm@4.67.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.67.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0",
+      "name": "trafilatura",
+      "purl": "pkg:pypi/trafilatura@2.0.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache2",
+      "name": "trainer",
+      "purl": "pkg:pypi/trainer@0.0.36",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.0.36"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache 2.0 License",
+      "name": "transformers",
+      "purl": "pkg:pypi/transformers@4.57.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.57.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "tree-sitter",
+      "purl": "pkg:pypi/tree-sitter@0.23.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tree-sitter-c",
+      "purl": "pkg:pypi/tree-sitter-c@0.23.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tree-sitter-javascript",
+      "purl": "pkg:pypi/tree-sitter-javascript@0.23.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tree-sitter-python",
+      "purl": "pkg:pypi/tree-sitter-python@0.23.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tree-sitter-typescript",
+      "purl": "pkg:pypi/tree-sitter-typescript@0.23.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.23.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unlicense license",
+      "name": "treetable",
+      "purl": "pkg:pypi/treetable@0.2.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "The MIT License (MIT)\n        \n        C",
+      "name": "trimesh",
+      "purl": "pkg:pypi/trimesh@4.12.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.12.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MPL-2.0",
+      "name": "TTS",
+      "purl": "pkg:pypi/TTS@0.22.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.22.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "typeguard",
+      "purl": "pkg:pypi/typeguard@4.4.4",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.4.4"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "typer",
+      "purl": "pkg:pypi/typer@0.19.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.19.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "typer-slim",
+      "purl": "pkg:pypi/typer-slim@0.20.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.20.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "typing-inspect",
+      "purl": "pkg:pypi/typing-inspect@0.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "typing-inspection",
+      "purl": "pkg:pypi/typing-inspection@0.4.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "typing_extensions",
+      "purl": "pkg:pypi/typing_extensions@4.15.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.15.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "tzdata",
+      "purl": "pkg:pypi/tzdata@2026.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2026.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "tzlocal",
+      "purl": "pkg:pypi/tzlocal@5.3.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.3.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "ujson",
+      "purl": "pkg:pypi/ujson@5.11.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.11.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "AGPL-3.0",
+      "name": "ultralytics",
+      "purl": "pkg:pypi/ultralytics@8.4.6",
+      "scope": "optional",
+      "type": "library",
+      "version": "8.4.6"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "AGPL-3.0",
+      "name": "ultralytics-thop",
+      "purl": "pkg:pypi/ultralytics-thop@2.0.18",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.18"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "umap-learn",
+      "purl": "pkg:pypi/umap-learn@0.5.7",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.7"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "GPL",
+      "name": "Unidecode",
+      "purl": "pkg:pypi/Unidecode@1.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-Clause OR Apache-2.0",
+      "name": "uritemplate",
+      "purl": "pkg:pypi/uritemplate@4.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "4.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "urllib3",
+      "purl": "pkg:pypi/urllib3@2.5.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.5.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "uuid_utils",
+      "purl": "pkg:pypi/uuid_utils@0.14.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.14.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "uvicorn",
+      "purl": "pkg:pypi/uvicorn@0.39.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.39.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "uvloop",
+      "purl": "pkg:pypi/uvloop@0.22.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.22.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "vaderSentiment",
+      "purl": "pkg:pypi/vaderSentiment@3.3.2",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.3.2"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "vine",
+      "purl": "pkg:pypi/vine@5.1.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "5.1.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "UNKNOWN",
+      "name": "vosk",
+      "purl": "pkg:pypi/vosk@0.3.44",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.3.44"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "wasabi",
+      "purl": "pkg:pypi/wasabi@1.1.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "watchfiles",
+      "purl": "pkg:pypi/watchfiles@1.1.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.1.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "wcwidth",
+      "purl": "pkg:pypi/wcwidth@0.7.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.7.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "weasel",
+      "purl": "pkg:pypi/weasel@0.4.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.4.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "webencodings",
+      "purl": "pkg:pypi/webencodings@0.5.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.5.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "webrtcvad",
+      "purl": "pkg:pypi/webrtcvad@2.0.10",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.10"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "websocket-client",
+      "purl": "pkg:pypi/websocket-client@1.9.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.9.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-3-Clause",
+      "name": "websockets",
+      "purl": "pkg:pypi/websockets@15.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "15.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "Werkzeug",
+      "purl": "pkg:pypi/Werkzeug@3.1.8",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.1.8"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "wheel",
+      "purl": "pkg:pypi/wheel@0.48.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.48.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "whisperx",
+      "purl": "pkg:pypi/whisperx@3.7.5",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.7.5"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT",
+      "name": "wikipedia",
+      "purl": "pkg:pypi/wikipedia@1.4.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.4.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Copyright (c) 2013-2025, Graham Dumpleto",
+      "name": "wrapt",
+      "purl": "pkg:pypi/wrapt@2.0.1",
+      "scope": "optional",
+      "type": "library",
+      "version": "2.0.1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "MIT License",
+      "name": "wsproto",
+      "purl": "pkg:pypi/wsproto@1.2.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.2.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD-2-Clause",
+      "name": "xlsxwriter",
+      "purl": "pkg:pypi/xlsxwriter@3.2.9",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.2.9"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD 3-clause",
+      "name": "xlwings",
+      "purl": "pkg:pypi/xlwings@0.35.3",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.35.3"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "BSD",
+      "name": "xxhash",
+      "purl": "pkg:pypi/xxhash@3.6.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.6.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache-2.0",
+      "name": "yarl",
+      "purl": "pkg:pypi/yarl@1.22.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "1.22.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Apache",
+      "name": "yfinance",
+      "purl": "pkg:pypi/yfinance@0.2.43",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.43"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "yt-dlp",
+      "purl": "pkg:pypi/yt-dlp@2025.10.14",
+      "scope": "optional",
+      "type": "library",
+      "version": "2025.10.14"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "zipp",
+      "purl": "pkg:pypi/zipp@3.23.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "3.23.0"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "ASL",
+      "name": "zopfli",
+      "purl": "pkg:pypi/zopfli@0.2.3.post1",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.2.3.post1"
+    },
+    {
+      "ecosystem": "PyPI",
+      "license": "Unknown",
+      "name": "zstandard",
+      "purl": "pkg:pypi/zstandard@0.25.0",
+      "scope": "optional",
+      "type": "library",
+      "version": "0.25.0"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "description": "Production local-first, privacy-first AI skill learning system.",
+      "license": "Apache-2.0",
+      "name": "teach-a-skill",
+      "type": "application",
+      "version": "1.0.0"
+    },
+    "timestamp": "2026-10-05T00:00:00Z"
+  },
+  "serialNumber": "urn:uuid:72aa90651bc149ae998187b16e9ba6cf0d77",
+  "specVersion": "1.5",
+  "version": 1
+}

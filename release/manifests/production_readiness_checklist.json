@@ -1,0 +1,20 @@
+{
+  "correctness": true,
+  "cross_platform": true,
+  "dependency_integrity": true,
+  "determinism": true,
+  "documentation": true,
+  "execution_safety": true,
+  "installation": true,
+  "learning_safety": true,
+  "package_integrity": true,
+  "performance": true,
+  "privacy": true,
+  "provenance": true,
+  "recovery": true,
+  "release_artifacts": true,
+  "security": true,
+  "stress": true,
+  "uninstall": true,
+  "upgrade": true
+}

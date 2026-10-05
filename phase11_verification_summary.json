@@ -1,0 +1,63 @@
+{
+  "all_passed": true,
+  "results": [
+    {
+      "test": "real_safe_recovery",
+      "passed": true,
+      "active_app": "Electron",
+      "failure_type": "ACTION_FAILURE",
+      "strategy": "REOBSERVE",
+      "regrounded": false,
+      "actual_text": "Phase 11 Resilient Safe Recovery Verified [Real macOS Execution]"
+    },
+    {
+      "test": "real_unrecoverable",
+      "passed": true,
+      "physical_actions_after_stop": 0,
+      "final_strategy": "STOP"
+    },
+    {
+      "test": "real_timeout",
+      "passed": true,
+      "strategy": "REOBSERVE",
+      "blindly_repeated": false
+    },
+    {
+      "test": "real_cancellation",
+      "passed": true,
+      "outcome": "CANCELLED"
+    },
+    {
+      "test": "benchmarks",
+      "passed": true,
+      "classification_rate": 54257.25,
+      "planning_ms_per_step": 0.0127,
+      "verification_1k_ms": 0.294,
+      "rss_growth_mb": 0.0,
+      "memory_bounded": true
+    },
+    {
+      "test": "invariants",
+      "passed": true,
+      "details": {
+        "all_passed": true,
+        "action_safety": {
+          "passed": true,
+          "detail": "Action conforms to safety and boundary policies"
+        },
+        "injection_defense": {
+          "passed": true,
+          "detail": "Dangerous command injection token 'rm -rf' detected in action parameters"
+        },
+        "skill_immutability": {
+          "passed": true,
+          "detail": "Skill immutability strictly preserved"
+        },
+        "bounded_budget": {
+          "passed": true,
+          "detail": "Recovery termination budget verified"
+        }
+      }
+    }
+  ]
+}

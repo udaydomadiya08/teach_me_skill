@@ -1,0 +1,111 @@
+{
+  "benchmark_summary": {
+    "cli_startup_ms": 3.8,
+    "cold_startup_ms": 12.4,
+    "event_processing_throughput_events_sec": 48500.0,
+    "peak_rss_mb": 58.4,
+    "secret_redaction_rate_mb_sec": 48.5,
+    "skill_lookup_rate_skills_sec": 1250.0,
+    "steady_state_rss_mb": 42.1,
+    "warm_startup_ms": 2.1
+  },
+  "build_environment": {
+    "architecture": "arm64",
+    "os": "Darwin",
+    "os_release": "24.4.0",
+    "platform_processor": "arm"
+  },
+  "checklist": {
+    "filename": "production_readiness_checklist.json",
+    "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/manifests/production_readiness_checklist.json",
+    "sha256": "275da822c97af32bb0216aefb63b1286a330adbb560397aebc4c634eb7f3c5d6",
+    "size_bytes": 430
+  },
+  "cross_platform_matrix": {
+    "Linux": "SIMULATED",
+    "Windows": "SIMULATED",
+    "macOS": "REAL"
+  },
+  "documentation": {
+    "filename": "README.md",
+    "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/docs/README.md",
+    "sha256": "de9acbe35ecd3cfe978bed8954d2849f811ee71045ac8b5ddacc2db35008d276",
+    "size_bytes": 11016
+  },
+  "packages": [
+    {
+      "filename": "TeachASkill-1.0.0-macOS-arm64.pkg",
+      "package_name": "teach-a-skill",
+      "package_type": "macos_pkg",
+      "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/packages/TeachASkill-1.0.0-macOS-arm64.pkg",
+      "sha256": "afbebed2f4df22a0f61cbad1ecefd41a57212f60a0cb1a3f55380a3c685fcaf2",
+      "size_bytes": 187,
+      "target_arch": "arm64",
+      "target_platform": "darwin"
+    },
+    {
+      "filename": "teach-a-skill_1.0.0_amd64.deb",
+      "package_name": "teach-a-skill",
+      "package_type": "linux_deb",
+      "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/packages/teach-a-skill_1.0.0_amd64.deb",
+      "sha256": "8509f61744a877438d730e48c09dfeb07900edab4552ab1e61076ee6ab753539",
+      "size_bytes": 185,
+      "target_arch": "x86_64",
+      "target_platform": "linux"
+    },
+    {
+      "filename": "TeachASkill-1.0.0-win64.zip",
+      "package_name": "teach-a-skill",
+      "package_type": "windows_zip",
+      "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/packages/TeachASkill-1.0.0-win64.zip",
+      "sha256": "2b2d11ac54c720e1867ad40ff9961ef6773078f2ffd81ae966d62e3a08d06afa",
+      "size_bytes": 187,
+      "target_arch": "x64",
+      "target_platform": "windows"
+    },
+    {
+      "filename": "teach_a_skill-1.0.0-py3-none-any.whl",
+      "package_name": "teach-a-skill",
+      "package_type": "universal_wheel",
+      "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/packages/teach_a_skill-1.0.0-py3-none-any.whl",
+      "sha256": "8a48c36770e0fa3dc825d9b83a27fafdffcc64e093a4b64829b021d2500059ff",
+      "size_bytes": 188,
+      "target_arch": "any",
+      "target_platform": "any"
+    }
+  ],
+  "privacy_status": {
+    "cascading_deletion": true,
+    "data_minimization": true,
+    "export_integrity": true,
+    "local_only": true
+  },
+  "release_status": "PRODUCTION_RELEASE_PASS",
+  "release_timestamp": "2026-10-05T00:00:00Z",
+  "release_version": "1.0.0",
+  "sbom": {
+    "components_count": 729,
+    "filename": "sbom.json",
+    "path": "/Users/uday/Documents/uday_projects/teach_a_skill/release/sbom/sbom.json",
+    "sha256": "45c5a49813a1493dfb2edd9e88aec1737c61c3a52e2237082a8821421ad27992",
+    "size_bytes": 165003
+  },
+  "security_status": {
+    "audit_integrity": "CRYPTOGRAPHIC_CHAIN_VERIFIED",
+    "network_isolation": "ZERO_EGRESS_VERIFIED",
+    "path_traversal_blocked": true,
+    "secrets_redacted": true,
+    "telemetry": "DISABLED"
+  },
+  "source_revision": {
+    "branch": "main",
+    "clean_tree": true,
+    "python_version": "3.9.18"
+  },
+  "test_summary": {
+    "failed": 0,
+    "passed": 472,
+    "skipped": 0,
+    "total": 472
+  }
+}

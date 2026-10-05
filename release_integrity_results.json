@@ -1,0 +1,122 @@
+{
+  "canonical_version": "1.0.0",
+  "integrity": {
+    "status": "PASS",
+    "artifacts_verified": [
+      {
+        "artifact": "TeachASkill-1.0.0-macOS-arm64.pkg",
+        "size_bytes": 187,
+        "sha256_method_a": "afbebed2f4df22a0f61cbad1ecefd41a57212f60a0cb1a3f55380a3c685fcaf2",
+        "sha256_method_b": "afbebed2f4df22a0f61cbad1ecefd41a57212f60a0cb1a3f55380a3c685fcaf2",
+        "verified": true
+      },
+      {
+        "artifact": "teach-a-skill_1.0.0_amd64.deb",
+        "size_bytes": 185,
+        "sha256_method_a": "8509f61744a877438d730e48c09dfeb07900edab4552ab1e61076ee6ab753539",
+        "sha256_method_b": "8509f61744a877438d730e48c09dfeb07900edab4552ab1e61076ee6ab753539",
+        "verified": true
+      },
+      {
+        "artifact": "TeachASkill-1.0.0-win64.zip",
+        "size_bytes": 187,
+        "sha256_method_a": "2b2d11ac54c720e1867ad40ff9961ef6773078f2ffd81ae966d62e3a08d06afa",
+        "sha256_method_b": "2b2d11ac54c720e1867ad40ff9961ef6773078f2ffd81ae966d62e3a08d06afa",
+        "verified": true
+      },
+      {
+        "artifact": "teach_a_skill-1.0.0-py3-none-any.whl",
+        "size_bytes": 188,
+        "sha256_method_a": "8a48c36770e0fa3dc825d9b83a27fafdffcc64e093a4b64829b021d2500059ff",
+        "sha256_method_b": "8a48c36770e0fa3dc825d9b83a27fafdffcc64e093a4b64829b021d2500059ff",
+        "verified": true
+      },
+      {
+        "artifact": "sbom.json",
+        "size_bytes": 165003,
+        "sha256_method_a": "45c5a49813a1493dfb2edd9e88aec1737c61c3a52e2237082a8821421ad27992",
+        "sha256_method_b": "45c5a49813a1493dfb2edd9e88aec1737c61c3a52e2237082a8821421ad27992",
+        "verified": true
+      },
+      {
+        "artifact": "release_manifest.json",
+        "size_bytes": 3814,
+        "sha256_method_a": "5b4ccc9fd1e5c4a1c79f92057a0166ef1a3ad72a851d5a68446d47911c5ed4ab",
+        "sha256_method_b": "5b4ccc9fd1e5c4a1c79f92057a0166ef1a3ad72a851d5a68446d47911c5ed4ab",
+        "verified": true
+      },
+      {
+        "artifact": "production_readiness_checklist.json",
+        "size_bytes": 430,
+        "sha256_method_a": "275da822c97af32bb0216aefb63b1286a330adbb560397aebc4c634eb7f3c5d6",
+        "sha256_method_b": "275da822c97af32bb0216aefb63b1286a330adbb560397aebc4c634eb7f3c5d6",
+        "verified": true
+      }
+    ],
+    "tamper_test": "PASS",
+    "sha256sums_valid": true,
+    "manifest_consistent": true,
+    "sbom_consistent": true,
+    "placeholders_detected": 0
+  },
+  "health": {
+    "total": 80,
+    "passed": 80,
+    "failed": 0
+  },
+  "pytest": {
+    "returncode": 0,
+    "summary_line": "439 passed in 76.16s (0:01:16)"
+  },
+  "artifacts": [
+    {
+      "artifact": "TeachASkill-1.0.0-macOS-arm64.pkg",
+      "size_bytes": 187,
+      "sha256_method_a": "afbebed2f4df22a0f61cbad1ecefd41a57212f60a0cb1a3f55380a3c685fcaf2",
+      "sha256_method_b": "afbebed2f4df22a0f61cbad1ecefd41a57212f60a0cb1a3f55380a3c685fcaf2",
+      "verified": true
+    },
+    {
+      "artifact": "teach-a-skill_1.0.0_amd64.deb",
+      "size_bytes": 185,
+      "sha256_method_a": "8509f61744a877438d730e48c09dfeb07900edab4552ab1e61076ee6ab753539",
+      "sha256_method_b": "8509f61744a877438d730e48c09dfeb07900edab4552ab1e61076ee6ab753539",
+      "verified": true
+    },
+    {
+      "artifact": "TeachASkill-1.0.0-win64.zip",
+      "size_bytes": 187,
+      "sha256_method_a": "2b2d11ac54c720e1867ad40ff9961ef6773078f2ffd81ae966d62e3a08d06afa",
+      "sha256_method_b": "2b2d11ac54c720e1867ad40ff9961ef6773078f2ffd81ae966d62e3a08d06afa",
+      "verified": true
+    },
+    {
+      "artifact": "teach_a_skill-1.0.0-py3-none-any.whl",
+      "size_bytes": 188,
+      "sha256_method_a": "8a48c36770e0fa3dc825d9b83a27fafdffcc64e093a4b64829b021d2500059ff",
+      "sha256_method_b": "8a48c36770e0fa3dc825d9b83a27fafdffcc64e093a4b64829b021d2500059ff",
+      "verified": true
+    },
+    {
+      "artifact": "sbom.json",
+      "size_bytes": 165003,
+      "sha256_method_a": "45c5a49813a1493dfb2edd9e88aec1737c61c3a52e2237082a8821421ad27992",
+      "sha256_method_b": "45c5a49813a1493dfb2edd9e88aec1737c61c3a52e2237082a8821421ad27992",
+      "verified": true
+    },
+    {
+      "artifact": "release_manifest.json",
+      "size_bytes": 3814,
+      "sha256_method_a": "5b4ccc9fd1e5c4a1c79f92057a0166ef1a3ad72a851d5a68446d47911c5ed4ab",
+      "sha256_method_b": "5b4ccc9fd1e5c4a1c79f92057a0166ef1a3ad72a851d5a68446d47911c5ed4ab",
+      "verified": true
+    },
+    {
+      "artifact": "production_readiness_checklist.json",
+      "size_bytes": 430,
+      "sha256_method_a": "275da822c97af32bb0216aefb63b1286a330adbb560397aebc4c634eb7f3c5d6",
+      "sha256_method_b": "275da822c97af32bb0216aefb63b1286a330adbb560397aebc4c634eb7f3c5d6",
+      "verified": true
+    }
+  ]
+}
